@@ -1,0 +1,7 @@
+namespace Solution
+{
+    class Program
+    {
+        
+    }
+}
