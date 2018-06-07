@@ -1,6 +1,6 @@
 namespace Solution
 {
-    class Program
+    class MyLeetCode
     {
         public ListNode RemoveNthFromEnd2(ListNode head, int n)
         {
@@ -26,12 +26,5 @@ namespace Solution
 
             return dummyNode.next;
         }        
-    }
-
-    class ListNode
-    {
-         public int val;
-         public ListNode next;
-         public ListNode(int x) { val = x; }
     }
 }
